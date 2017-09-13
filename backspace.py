@@ -11,11 +11,11 @@ Output
 One line containing the string as Bjarki intended to write it.
 
 Sample Input 1	Sample Output 1
-a<bc<
-b
+a<bc<           b
+
 Sample Input 2	Sample Output 2
-foss<<rritun
-forritun
+foss<<rritun    forritun
+
 Sample Input 3	Sample Output 3
 a<a<a<aa<<
 

@@ -20,8 +20,8 @@ Output
 Output the number of days needed to change the cipher text to a string containing only Per’s name.
 
 Sample Input 1	Sample Output 1
-SECRET
-4
+SECRET          4
+
 """
 
 encrypted = "SECRET"

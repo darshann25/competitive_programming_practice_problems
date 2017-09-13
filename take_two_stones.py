@@ -1,3 +1,4 @@
+# coding=utf-8
 """
 Alice and Bob are playing a new game of stones. There are NN stones placed on the ground, forming a sequence. The stones are labeled from 11 to NN.
 
@@ -12,14 +13,13 @@ Output
 Output the winner, “Alice” or “Bob” (without the quotes), on a line.
 
 Sample Input 1	Sample Output 1
-1
-Alice
+1               Alice
+
 Sample Input 2	Sample Output 2
-2
-Bob
+2               Bob
+
 Sample Input 3	Sample Output 3
-5
-Alice
+5               Alice
 """
 
 # Solution :
