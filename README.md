@@ -14,4 +14,6 @@
 <h3>PSU Meeting 3</h3>
 <ul>
     <li>Numbers on a Tree <b>[Java]</b></li>
+    <li>Combination Lock <b>[Python]</b></li>
+    <li>Black Friday <b>[Python]</b></li>
 </ul>
