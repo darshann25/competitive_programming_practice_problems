@@ -18,3 +18,8 @@
     <li>Black Friday <b>[Python]</b></li>
     <li>Train Passengers <b>[Python]</b></li>
 </ul>
+
+<h3>Random</h3>
+<ul>
+    <li>Longest Increasing Subsequence</li>
+</ul>
