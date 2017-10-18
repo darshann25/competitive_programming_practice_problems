@@ -19,6 +19,11 @@
     <li>Train Passengers <b>[Python]</b></li>
 </ul>
 
+<h3>PSU Meeting 6</h3>
+<ul>
+    <li>Akcija <b>[Java]</b></li>
+</ul>
+
 <h3>Random</h3>
 <ul>
     <li>Longest Increasing Subsequence</li>
